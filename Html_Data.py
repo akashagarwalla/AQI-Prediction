@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan  6 12:02:41 2020
-
-@author: Akash Agarwalla
-"""
-
 import os
 import time
 import requests #helps to download html pages
