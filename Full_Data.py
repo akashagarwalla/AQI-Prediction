@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan  6 17:27:45 2020
-
-@author: Akash Agarwalla
-"""
-
 from bs4 import BeautifulSoup
 import pandas as pd
 from AQI_plot import avg_AQI
